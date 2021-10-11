@@ -79,11 +79,10 @@ Saeed Hosseini - saeed144.73@gmail.com
 [forks-shield]: https://img.shields.io/github/forks/mra-ak/django_weather_app.svg?style=for-the-badge
 [forks-url]: https://github.com/S144S/SEO_keyword_counter/network/members
 [stars-shield]: https://img.shields.io/github/stars/mra-ak/django_weather_app.svg?style=for-the-badge
-[stars-url]: SEO_keyword_counter
+[stars-url]: https://github.com/S144S/SEO_keyword_counter/stargazers
 [issues-shield]: https://img.shields.io/github/issues/mra-ak/django_weather_app.svg?style=for-the-badge
 [issues-url]: https://github.com/S144S/SEO_keyword_counter/issues
 [license-shield]: https://img.shields.io/github/license/mra-ak/django_weather_app.svg?style=for-the-badge
 [license-url]: https://github.com/S144S/SEO_keyword_counter/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/saeed%2Dhosseini%2D64233a89/
-[]: 
